@@ -1,0 +1,92 @@
+  
+[    
+    {
+        "id":1,
+        "category": "Shop",
+        "category_id": "Whey Protein",
+        "name": "Gold Whey",
+        "brand": "Optimum Nutriton",
+        "weight": "4.2 lbs",
+        "price": "5800 Rs",
+        "rating":"4.2",
+        "image":"https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg"
+        
+    },
+    {
+        "id":2,
+        "category": "Shop",
+        "category_id": "Mass Gainer",
+        "name": "Serious Mass",
+        "brand": "Optimum Nutriton",
+        "weight": "6 lbs",
+        "price": "3250 Rs",
+        "rating":"3.8",
+        "image":"https://m.media-amazon.com/images/I/61DQLVMdwsL._SY450_.jpg"
+    },
+    {
+        "id":3,
+        "category_id": "Whey Protein",
+        "category": "Shop",
+        "name": "Nitro Tech",
+        "brand":"MuscleTech",
+        "weight": "4 lbs",
+        "price": "5300 Rs",
+        "rating":"4.3",
+        "image":"https://www.jiomart.com/images/product/original/rvaxqg0fm5/muscletech-performance-series-nitro-tech-milk-chocolate-4lbs-1-81kg-product-images-orvaxqg0fm5-p591493950-0-202205211313.jpg"
+    },
+    {
+        "id":4,
+        "category": "Shop",
+        "category_id": "Mass Gainer",
+        "name": "Mass Tech",
+        "brand":"MuscleTech",
+        "weight": "7 lbs",
+        "price": "5600 Rs",
+        "rating":"4.0",
+        "image":"https://cdn.nutrabay.com/wp-content/uploads/2021/05/NB-MUT-1012-02-01a-510x510.jpg"
+    },
+    {
+        "id":5,
+        "category": "Shop",
+        "category_id": "Whey Protein",
+        "name": "Crud Whey",
+        "brand":"Big Muscle",
+        "weight": "2.1 lbs",
+        "price": "949 Rs",
+        "rating":"3.9",
+        "image":"https://gmcsupplements.com/wp-content/uploads/2021/07/GMC_BM_crude-whey_01.jpg"
+    },
+    {
+        "id":6,
+        "category": "Shop",
+        "category_id": "Whey Protein",
+        "name": "ISO Whey",
+        "brand":"Muscle Blaze",
+        "weight": "6.6 lbs",
+        "price": "2949 Rs",
+        "rating":"4.0",
+        "image":"https://img6.hkrtcdn.com/10635/prd_1063435-MuscleBlaze-Whey-Isolate--4.4-lb-Chocolate_o.jpg"
+    },
+    {
+        "id":7,
+        "category": "Shop",
+        "category_id": "Casein Protein",
+        "name": "Kaged Muscle KASIEN",
+        "brand":"Kaged Muscle",
+        "weight": "907 gm",
+        "price": "2596 Rs",
+        "rating":"4.5",
+        "image":"https://images-cdn.ubuy.co.in/639d295d40d93f6adb5dd6b6-casein-protein-powder-kaged-muscle.jpg"
+    },      
+    {
+        "id":8,
+        "category": "Shop",
+        "category_id": "Protien Bars",
+        "name": "Max Protien",
+        "brand":"Rite Bite",
+        "size": "9-2 Wafer Packs",
+        "price": "1854 Rs",
+        "rating":"4.5",
+        "image":"https://m.media-amazon.com/images/I/610cfknEDSL._SL1000_.jpg"
+    }      
+]

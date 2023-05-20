@@ -1,0 +1,232 @@
+{   
+    "proteins":[   
+        {
+            "id": 1,
+            "category": "Shop",
+            "category_id": "Whey Protein",
+            "name": "GoldWhey",
+            "brand": "Optimum Nutriton",
+            "weight": "4.2 lbs",
+            "price": "5800 Rs",
+            "rating":"4.2",
+            "image":"https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg"
+        },
+        {
+            "id": 2,
+            "category": "Shop",
+            "category_id": "Mass Gainer",
+            "name": "Serious Mass Gainer",
+            "brand": "Optimum Nutriton",
+            "weight": "6 lbs",
+            "price": "3250 Rs",
+            "rating":"3.8",
+            "image":"https://m.media-amazon.com/images/I/61DQLVMdwsL._SY450_.jpg"
+        },
+        {
+            "id": 3,
+            "category_id": "Whey Protein",
+            "category": "Shop",
+            "name": "Nitro Tech",
+            "brand":"MuscleTech",
+            "weight": "4 lbs",
+            "price": "5300 Rs",
+            "rating":"4.3",
+            "image":"https://www.jiomart.com/images/product/original/rvaxqg0fm5/muscletech-performance-series-nitro-tech-milk-chocolate-4lbs-1-81kg-product-images-orvaxqg0fm5-p591493950-0-202205211313.jpg"
+        },
+        {
+            "id": 4,
+            "category": "Shop",
+            "category_id": "Mass Gainer",
+            "name": "Mass Tech",
+            "brand":"MuscleTech",
+            "weight": "7 lbs",
+            "price": "5600 Rs",
+            "rating":"4.0",
+            "image":"https://cdn.nutrabay.com/wp-content/uploads/2021/05/NB-MUT-1012-02-01a-510x510.jpg"
+        },
+        {
+            "id": 5,
+            "category": "Shop",
+            "category_id": "Whey Protein",
+            "name": "Crud Whey",
+            "brand":"Big Muscle",
+            "weight": "2.1 lbs",
+            "price": "949 Rs",
+            "rating":"3.9",
+            "image":"https://gmcsupplements.com/wp-content/uploads/2021/07/GMC_BM_crude-whey_01.jpg"
+        },
+        {
+            "id": 6,
+            "category": "Shop",
+            "category_id": "Whey Protein",
+            "name": "ISO Whey",
+            "brand":"Muscle Blaze",
+            "weight": "6.6 lbs",
+            "price": "2949 Rs",
+            "rating":"4.0",
+            "image":"https://img6.hkrtcdn.com/10635/prd_1063435-MuscleBlaze-Whey-Isolate--4.4-lb-Chocolate_o.jpg"
+        },
+        {
+            "id": 7,
+            "category": "Shop",
+            "category_id": "Casein Protein",
+            "name": "Kaged Muscle KASIEN",
+            "brand":"Kaged Muscle",
+            "weight": "907 gm",
+            "price": "2596 Rs",
+            "rating":"4.5",
+            "image":"https://cdn.shopify.com/s/files/1/0561/2653/7933/products/KAG6470001-Kasein-Micellar-CPB-grey_1200x1200.jpg?v=1682518621"
+        },      
+        {
+            "id": 8,
+            "category": "Shop",
+            "category_id": "Protien Bars",
+            "name": "Max Protien",
+            "brand":"Rite Bite",
+            "size": "9-2 Wafer Packs",
+            "price": "1854 Rs",
+            "rating":"4.5",
+            "image":"https://m.media-amazon.com/images/I/610cfknEDSL._SL1000_.jpg"
+        }      
+    ],
+            
+    "performance":[   
+        {
+            "id": 1,
+            "category": "Shop",
+            "category_id": "Pre-Workout",
+            "name": "C4 RIPPED",
+            "brand": "Cellucor",
+            "size": "30 Servings",
+            "price": "Rs 2,967.37",
+            "rating":"4.2",
+            "image":"https://5.imimg.com/data5/SELLER/Default/2020/12/FV/FN/PU/58586084/cellucor-c4-ripped-pre-workout-supplements-500x500.jpg"
+        },
+        {
+            "id": 2,
+            "category": "Shop",
+            "category_id": "Pre-Workout",
+            "name": "Signature Pre-Workout",
+            "brand": "Bodybuilding.com",
+            "size": "30 Servings",
+            "price": "Rs 2,213.3",
+            "rating":"3.8",
+            "image":"https://m.media-amazon.com/images/I/71P30WfBuEL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 3,
+            "category_id": "Shop",
+            "category": "Pre-Workout",
+            "name": "Pre-Kaged Elite",
+            "brand":"Kaged Muscle",
+            "size": "20 Servings",
+            "price": "Rs 4,059.32",
+            "rating":"4.3",
+            "image":"https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-KAG-1014-01-01.jpg"
+        },
+        {
+            "id": 4,
+            "category_id": "Shop",
+            "category": "Post-Workout",
+            "name": "Amino Lean",
+            "brand":"RSP Nutrition",
+            "size": "30 Servings",
+            "price": "Rs 1,852.84",
+            "rating":"4.3",
+            "image":"https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rsp/rsp00739/l/16.jpg"
+        },
+        {
+            "id": 5,
+            "category_id": "Shop",
+            "category": "Post-Workout",
+            "name": "Swolverine L-Glutamine",
+            "brand":"Swolverine",
+            "size": "20 Servings",
+            "price": "Rs 2,596.35",
+            "rating":"5",
+            "image":"https://i5.walmartimages.com/asr/dc384a47-73ad-4149-875a-2351b9f0fe45.082741a7a7d789135eba2cdafb2a7686.png"
+        },
+        {
+            "id": 6,
+            "category_id": "Shop",
+            "category": "Post-Workout",
+            "name": "Signature BCAA",
+            "brand":"Bodybuilding.com Signature",
+            "size": "30 Servings",
+            "price": "Rs 1,780.12",
+            "rating":"4.5",
+            "image":"https://www.stack3d.com/cdn-cgi/image/q=50,f=auto/wp-content/uploads/2022/02/bodybuilding-com-signature-bcaa-flavors.jpg"
+        },
+        {
+            "id": 7,
+            "category": "Shop",
+            "category_id": "Creatine",
+            "name": "Sinature Creatine",
+            "brand": "Bodybuilding.com",
+            "size": "400 Grams",
+            "price": "Rs 2,238.12",
+            "rating":"4.1",
+            "image":"https://storage.googleapis.com/bodybuilding-cms/media/2021/12/5e730b45-bbcom_new_signature_creatine_v3_grey-e1640334661698.jpg"
+        },
+        {
+            "id": 8,
+            "category": "Shop",
+            "category_id": "Creatine",
+            "name": "Universal Nutrition Creatine",
+            "brand": "Universal Nutrition",
+            "size": "500 Grams",
+            "price": "Rs 1,3349.91",
+            "rating":"4.5",
+            "image":"https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn04702/l/25.jpg"
+        },
+        {
+            "id": 9,
+            "category": "Shop",
+            "category_id": "Creatine",
+            "name": "ON Micronized Creatine",
+            "brand": "Optimum Nutrition",
+            "size": "28 Servings",
+            "price": "Rs 1,444.00",
+            "rating":"4.0",
+            "image":"https://www.rxheal.com/1210-thickbox_default/micronized-creatine-powder-unflavoured-066-lb-on-optimum-nutrition.jpg"
+        }
+    ],
+
+    "weight management":[
+        {
+            "id": 1,
+            "category": "Shop",
+            "category_id": "Fat Burners",
+            "name": "Hydroxycut",
+            "brand":"MuscleTech",
+            "size": "50 Servings",
+            "price": "2,369.80 Rs",
+            "rating":"4.5",
+            "image":""
+
+        },
+        {
+            "id": 2,
+            "category": "Shop",
+            "category_id": "Fat Burners",
+            "name": "Enhanced Yohimbine",
+            "brand":"Enhanced",
+            "size": "120 Servings",
+            "price": "1,483.31 Rs",
+            "rating":"4.2",
+            "image":""
+
+        },
+        {
+            "id": 3,
+            "category": "Weight Loss",
+            "category_id": "Fat Burners",
+            "name": "Cira Nutrition Fare",
+            "brand":"Cira Nutrition",
+            "size": "30 Servings",
+            "price": "2,967.37 Rs",
+            "rating":"4.0",
+            "image":""
+        }
+    ]        
+}
